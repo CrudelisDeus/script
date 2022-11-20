@@ -8,3 +8,5 @@ sudo timedatectl set-timezone Europe/Kiev
 
 # Install standart program
 sudo apt install net-tools
+
+clear
