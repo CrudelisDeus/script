@@ -10,6 +10,7 @@ sudo timedatectl set-timezone Europe/Kiev
 sudo apt install net-tools
 
 # Added work environment
-mkdir -p /data/script
+sudo mkdir /data
+sudo chmod -R 777 /data
 
 clear
